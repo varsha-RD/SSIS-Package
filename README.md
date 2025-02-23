@@ -1,8 +1,8 @@
 Prerequisites:
 =============
 Install below
-SSIS Package
-SSISDB
+*SSIS Package
+*SSISDB
 
 This package reads the CSV file and loads the data into the order, product, and customer tables without duplicates.
 Used flat file source to load the csv file
